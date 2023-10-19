@@ -10,4 +10,8 @@ This task is taken from the Huggingface website (https://huggingface.co/docs/tra
 * Compare the model with the leaderboards top models to see how well it performs.
 
 ## Reference
-https://colab.research.google.com/drive/1PHv-IRLPCtv7oTcIGbsgZHqrB5LPvB7S#scrollTo=wx0U7oNsnZ3A
+* https://colab.research.google.com/drive/1PHv-IRLPCtv7oTcIGbsgZHqrB5LPvB7S#scrollTo=wx0U7oNsnZ3A
+* https://www.pinecone.io/learn/series/nlp/fine-tune-sentence-transformers-mnr/
+* https://github.com/huggingface/notebooks/blob/main/examples/text_classification.ipynb
+* https://github.com/YJiangcm/SST-2-sentiment-analysis/blob/master/models.py#L37
+* https://curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/
